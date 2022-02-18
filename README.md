@@ -1,2 +1,2 @@
-# Spotfy-site
+# Spotfy
 Projeto Sporty com html, css e bootstrap
